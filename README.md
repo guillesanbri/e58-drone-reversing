@@ -1,6 +1,11 @@
 # e58-drone-reversing
 Reverse-engineered video feed from an E58 drone.
 
+<div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/xAzyGWCkWXF4kLFX7g" width="100%" height="100%" style="position:absolute;border-radius: 0.25rem;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+> [!NOTE]
+> More info about this project at: [guillesanbri.com/drone-video](https://guillesanbri.com/drone-video)
+
 # Setting Up
 
 1. Install [uv](https://github.com/astral-sh/uv) if you don't have it:
