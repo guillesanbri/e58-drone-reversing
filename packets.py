@@ -1,5 +1,5 @@
 # Start Video Feed
-START_FRAME = b"\xef\x00\x04\x00"
+START_STREAM = b"\xef\x00\x04\x00"
 
 # Unknown
 UNK_FRAME = b"\xef\x20\x06\x00\x01\x65"
